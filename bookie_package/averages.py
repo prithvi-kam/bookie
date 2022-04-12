@@ -3,6 +3,8 @@ import sys
 
 def avg_goal_diff(df, avg_h_a_diff, a_h_team, a_h_goal_letter):
     """
+    Changes Below:
+    
     input: 
         df = dataframe with all results
         avg_h_a_diff = name of the new column
